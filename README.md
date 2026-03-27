@@ -46,4 +46,18 @@ python analysis.py
 
 ![Simulation](simulation.gif)
 
-https://github.com/christianmagsigay/DEM-Vibrated-Granular-Material/blob/main/simulation.mp4
+## 📊 Sample Results
+
+### Center of Mass Motion
+![Trajectory](sample_plot1.png)
+
+Sample plot of the height versus time and the corresponding acceleration versus time of the CM of the granular materials for e = 0.50 at Γ = 6 [10]. The
+orange dots are the points in time when collisions occurred, while the blue squares are when the materials are launched from the container. The yellow regions represent the duration of the flight times, and the red dashed line indicates when the grains are in free flight.
+
+---
+
+### Acceleration and Collision Detection
+![Acceleration](sample_plot2.png)
+
+Bifurcation diagrams obtained from the dimensionless flight time T versus the dimensionless acceleration Γ for particle diameters d =[0.006, 0.008, 0.010, 0.012]
+(a) zoomed-in at the critical accelerations and (b) a larger scale focusing on the first bifurcation. The theoretical bifurcation diagrams for various Tr are also plotted for comparison. Vertical dashed lines indicate the bifurcation point location on the Γ-axis.
