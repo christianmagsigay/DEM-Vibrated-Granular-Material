@@ -44,4 +44,4 @@ python analysis.py
 
 ## 🎥 Simulation Preview
 
-https://github.com/YOUR_USERNAME/liggghts-dem-simulation/blob/main/media/simulation.mp4
+https://github.com/christianmagsigay/DEM-Vibrated-Granular-Material/blob/main/simulation.mp4
