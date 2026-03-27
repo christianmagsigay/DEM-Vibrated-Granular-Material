@@ -64,5 +64,6 @@ Bifurcation diagrams obtained from the dimensionless flight time T versus the di
 
 ## 🎥 Thesis Video
 
-[![Granular DEM Simulation](https://img.youtube.com/vi/1-3ROftmYsc/0.jpg)](https://www.youtube.com/watch?v=1-3ROftmYsc)
 Modified inelastic bouncing ball model for vertically vibrated monodisperse grains... [CJP Magsigay]
+[![Granular DEM Simulation](https://img.youtube.com/vi/1-3ROftmYsc/0.jpg)](https://www.youtube.com/watch?v=1-3ROftmYsc)
+
