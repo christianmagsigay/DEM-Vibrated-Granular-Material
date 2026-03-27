@@ -62,6 +62,7 @@ orange dots are the points in time when collisions occurred, while the blue squa
 Bifurcation diagrams obtained from the dimensionless flight time T versus the dimensionless acceleration Γ for particle diameters d =[0.006, 0.008, 0.010, 0.012]
 (a) zoomed-in at the critical accelerations and (b) a larger scale focusing on the first bifurcation. The theoretical bifurcation diagrams for various Tr are also plotted for comparison. Vertical dashed lines indicate the bifurcation point location on the Γ-axis.
 
-## 🎥 Simulation Video
+## 🎥 Thesis Video
 
 [![Granular DEM Simulation](https://img.youtube.com/vi/1-3ROftmYsc/0.jpg)](https://www.youtube.com/watch?v=1-3ROftmYsc)
+Modified inelastic bouncing ball model for vertically vibrated monodisperse grains... [CJP Magsigay]
