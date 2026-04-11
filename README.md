@@ -22,20 +22,6 @@ The study focuses on:
 * Python 3
 * NumPy, Pandas, Matplotlib
 
-## How to Run
-
-### 1. Run Simulation
-
-```bash
-liggghts < input_script.in
-```
-
-### 2. Run Analysis
-
-```bash
-python analysis.py
-```
-
 ## Notes
 
 * STL files define the container geometry
